@@ -1,6 +1,6 @@
 // -----------------------------------------------
 // FILE: @{__FILE__}
 // includeTest/level1/level2/level3/libFile.agent.nut
-// LOCAL FILE
+// FROM GITHUB
 // PATH: @{__PATH__}
 // -----------------------------------------------
