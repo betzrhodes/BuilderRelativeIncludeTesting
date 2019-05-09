@@ -3,4 +3,4 @@
 // FROM GITHUB
 
 // Include file with relative path from local file using ./: 
-@include once "./level3/libFile.agent.nut"
+@include once "/./level3/libFile.agent.nut"
