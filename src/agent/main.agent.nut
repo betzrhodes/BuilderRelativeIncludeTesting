@@ -7,6 +7,10 @@
 
 @include "supporting.agent.nut"
 @include __PATH__ + "/supporting.agent.nut"
+
+@include "../shared/constants.shared.nut"
+@include __PATH__ + "/../shared/constants.shared.nut"
+
 @ @include __PATH__ + "/../shared/constants.shared.nut"
 @ @include __PATH__ + "/../../libs/myLibrary.lib.nut"
 
