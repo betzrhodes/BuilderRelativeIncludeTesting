@@ -3,7 +3,7 @@
 // PATH: @{__PATH__}
 
 // Main agent file:
-// Path from Project root directory: Builder/examples/includeExample/src/device/main.device.nut
+// Path from Project root directory: BuilderRelativeIncludeTesting/src/device/main.device.nut
 
 @include __PATH__ + "/../shared/constants.shared.nut"
 @include __PATH__ + "/../../libs/myLibrary.lib.nut"

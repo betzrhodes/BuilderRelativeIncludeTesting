@@ -3,7 +3,7 @@
 // PATH: @{__PATH__}
 
 // My local library file 
-// Path from Project root directory: Builder/examples/includeExample/libs/myLibrary.lib.nut
+// Path from Project root directory: BuilderRelativeIncludeTesting/libs/myLibrary.lib.nut
 
 class MyLib {
     static VERSION = "1.0.0";
