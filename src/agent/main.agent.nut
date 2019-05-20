@@ -6,7 +6,7 @@
 // Path from Project root directory: BuilderRelativeIncludeTesting/src/agent/main.agent.nut
 
 @include "supporting.agent.nut"
-@ @include __PATH__ + "supporting.agent.nut"
+@include __PATH__ + "/supporting.agent.nut"
 @ @include __PATH__ + "/../shared/constants.shared.nut"
 @ @include __PATH__ + "/../../libs/myLibrary.lib.nut"
 
